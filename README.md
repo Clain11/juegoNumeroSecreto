@@ -5,3 +5,5 @@
 Para ejecutar en sistema, debes poner:
 
 ```npm install react```
+
+Juego del Número Secreto 2
